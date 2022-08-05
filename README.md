@@ -6,7 +6,7 @@
 
 Your challenge is to build out this Healthpath PRO food catalog page using the [Mock API](https://62da64419eedb699636cf77d.mockapi.io/api/v1/foods) and get it looking as close to the design as possible.
 
-Sample response from advice slip as a slip object.
+Sample response from food API as a food object.
 ```json
 {
   "createdAt": "2022-08-04T22:46:50.816Z",
