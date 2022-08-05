@@ -1,10 +1,10 @@
-# Healthpath PRO - Food catalog
+# Healthpath - Food catalog
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
 ## The challenge
 
-Your challenge is to build out this Healthpath PRO food catalog page using the [Mock API](https://62da64419eedb699636cf77d.mockapi.io/api/v1/foods) and get it looking as close to the design as possible.
+Your challenge is to build out this Healthpath food catalog page using the [Mock API](https://62da64419eedb699636cf77d.mockapi.io/api/v1/foods) and get it looking as close to the design as possible.
 
 Sample response from food API as a food object.
 ```json
@@ -30,7 +30,8 @@ Your users should be able to:
 
 ## Where to find everything
 
-You will find all the required assets in [Figma](https://www.figma.com/file/DAweviPLsSQUpnrU6ZUock/Pro-Portal?node-id=4314%3A84252).
+You will find all the required assets in [Figma](https://www.figma.com/file/BVY58MVBU99KCiQCUHJf2q/Code-test?node-id=0%3A1).
+Password: **codetest**
 
 ## Building your project
 
